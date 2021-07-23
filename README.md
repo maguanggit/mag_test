@@ -1,1 +1,2 @@
 # mag_test
+master
