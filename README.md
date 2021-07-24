@@ -1,2 +1,4 @@
 # mag_test
-master
+master   dev-1   dev-1   dev-1   dev-1
+dev-1   dev-1   dev-1   dev-1   dev-1
+dev-1   dev-1   dev-1
